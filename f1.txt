@@ -1,4 +1,6 @@
 in f1
-reset1
-2nd reset 
-reset2
+eset1
+2reset
+rest2
+3rest
+rest3

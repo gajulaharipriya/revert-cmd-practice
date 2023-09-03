@@ -1,4 +1,0 @@
-in f1
-reset1
-2nd reset 
-reset2

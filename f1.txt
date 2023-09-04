@@ -6,14 +6,3 @@ rest2
 rest3
 r4
 4r
-45r
-r5
-6r 
-r6
-7r
-r7
-r8
-8r
-9r
-r9
-r10

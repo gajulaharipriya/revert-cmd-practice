@@ -6,3 +6,4 @@ rest2
 rest3
 r4
 4r
+git stash
